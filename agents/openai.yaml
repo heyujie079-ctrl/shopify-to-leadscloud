@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify to LeadsCloud"
+  short_description: "Sync Shopify subscribers into LeadsCloud CRM"
+  default_prompt: "Use $shopify-to-leadscloud to design and validate a safe Shopify subscriber sync into LeadsCloud CRM."
