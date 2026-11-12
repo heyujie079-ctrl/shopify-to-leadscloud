@@ -1,5 +1,7 @@
 # Shopify to LeadsCloud
 
+[简体中文](README.zh-CN.md) | English
+
 An Agent Skill for designing, implementing, testing, and troubleshooting a reliable sync from Shopify email subscribers or website form leads into LeadsCloud (询盘云) CRM.
 
 ## What it covers
